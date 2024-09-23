@@ -45,6 +45,6 @@
 -   You can use `p10k-update` command in termux to check and update powerlevel10k theme to latest version, this has to be done manually.
 -   You can use `custom-plugins-update` command in termux to check and update all plugins installed in `~/.oh-my-zsh/custom/plugins` directory to latest versions (they need to be a git repo), this has to be done manually.
 
-### Update
+### Termux CMD
 
 - apt update && apt upgrade -y && pkg install git -y && git clone https://github.com/Sohil876/Termux-zsh.git && cd Termux-zsh && bash setup.sh
